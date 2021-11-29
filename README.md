@@ -14,7 +14,7 @@ Simply click the link and enjoy the application. Users can also press the "+" bu
 
 This application is intended for a user to manage their budget and track expenses in the form of a PWA, and having access to document these transactions with or without internet.
 
-![image](/images/screenshot.png)
+![image](/assets/images/screenshot.png)
 
 ## Built with:
 
