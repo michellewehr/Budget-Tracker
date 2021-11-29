@@ -12,9 +12,9 @@ Simply click the link and enjoy the application. Users can also press the "+" bu
 
 ## Usage
 
-This application is intended to manage a NoSQL database holding social networking information. Users are able to add, delete, and/or update users, user friends, thoughts, and reactions to thoughts to the database,
+This application is intended for a user to manage their budget and track expenses in the form of a PWA, and having access to document these transactions with or without internet.
 
-![image](./images/screenshot.png)
+![image](/images/screenshot.png)
 
 ## Built with:
 
